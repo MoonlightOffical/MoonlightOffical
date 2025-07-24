@@ -5,7 +5,7 @@ I'm roblox exploit dev.
 ### Languages & Skills
 
 [![My Langs](https://skillicons.dev/icons?i=python,html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio)](https://skillicons.dev)
 
 ### Learning
 
