@@ -1,5 +1,6 @@
 # About Me 
 I'm roblox exploit dev.
+- Notes, All the repo i copied just to study.
 <hr>
 
 ### Languages & Skills
